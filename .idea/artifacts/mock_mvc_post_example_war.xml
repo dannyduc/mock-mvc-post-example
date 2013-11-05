@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mock-mvc-post-example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mock-mvc-post-example-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mock-mvc-post-example:war exploded" />
+    </root>
+  </artifact>
+</component>
